@@ -1,0 +1,12 @@
+*.pdb
+*.dll
+*.exe
+*.suo
+*.scc
+*.vspscc
+*.user
+*.cache
+*.log
+*.rdl.data
+bin/
+obj/
